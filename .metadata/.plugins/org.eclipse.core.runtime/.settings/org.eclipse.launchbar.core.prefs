@@ -1,0 +1,13 @@
+LaunchTargetManager/configs/Application=org.eclipse.launchbar.core.launchTargetType.wst.server\:Tomcat v10.0 Server at localhost
+LaunchTargetManager/configs/springboot-rest-api-sample=org.eclipse.launchbar.core.launchTargetType.wst.server\:Tomcat v10.0 Server at localhost
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.wst.server,Tomcat\ v10.0\ Server\ at\ localhost/name=Tomcat v10.0 Server at localhost
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Tomcat v10.0 Server at localhost,org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:springboot-rest-api-sample,org.eclipse.launchbar.core.descriptorType.default\:Application
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Application/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Tomcat\ v10.0\ Server\ at\ localhost/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Tomcat\ v10.0\ Server\ at\ localhost/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:springboot-rest-api-sample/activeLaunchMode=run
+org.jboss.tools.wtp.server.launchbar.ModuleDescriptorType\:springboot-rest-api-sample/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.wst.server\:Tomcat v10.0 Server at localhost
