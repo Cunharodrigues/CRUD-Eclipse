@@ -1,9 +1,9 @@
-#Tue Nov 14 17:25:36 BRT 2023
+#Thu Nov 16 09:29:04 BRT 2023
 ct=central
 a=showOnStartup
-c=1
+c=0
 s=0
-d=1699993536337
+d=1700137744006
 v=2.2.400.v20220119-0810
 cmp=usage
 cl=true
