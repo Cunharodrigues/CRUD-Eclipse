@@ -1,5 +1,0 @@
-package br.com.springboot_curso_jdev_treinamento.repository;
-
-public interface UsuarioRepository {
-
-}
